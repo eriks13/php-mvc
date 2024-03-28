@@ -21,6 +21,8 @@ Proyek ini menggunakan Composer untuk mengelola dependensi PHP-nya. File `compos
 2. Buka terminal atau command prompt, arahkan ke direktori proyek ini, dan jalankan perintah berikut untuk memuat dependensi menggunakan Composer:
    
    ```bash
+   -git clone https://github.com/eriks13/php-mvc-mini.git
+   -cd php-mvc-mini
    -composer install
    -buat server direktori root public "php -S localhost:8000 -t public"
    -buka alamat localhost:8000
