@@ -9,7 +9,7 @@
 
 
 ## Deskripsi Paket
-Paket `symfony/dotenv` adalah bagian dari ekosistem Symfony dan digunakan untuk mengelola variabel lingkungan ".env" dalam proyek PHP. Versi yang digunakan dalam proyek ini adalah ^6.4.
+Paket `symfony/dotenv` adalah bagian dari ekosistem Symfony dan digunakan untuk mengelola variabel lingkungan (.env) dalam proyek PHP. Versi yang digunakan dalam proyek ini adalah ^6.4.
 
 ## Composer Autoload
 Proyek ini menggunakan Composer untuk mengelola dependensi PHP-nya. File `composer.json` berisi daftar dependensi dan autoload. Untuk memasang dependensi, jalankan perintah `composer install`. Untuk memuat otomatis kelas-kelas dalam proyek, Composer menggunakan autoload yang didefinisikan dalam file `vendor/autoload.php`.
