@@ -22,7 +22,7 @@ Proyek ini menggunakan Composer untuk mengelola dependensi PHP-nya. File `compos
    
    ```bash
    -git clone https://github.com/eriks13/php-mvc.git
-   -cd php-mvc-mini
+   -cd php-mvc
    -composer install
    -buat server direktori root public "php -S localhost:8000 -t public"
    -buka alamat localhost:8000
