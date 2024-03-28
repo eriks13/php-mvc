@@ -1,5 +1,12 @@
 # php-mvc-mini
+
+# controller
 ![Alt Text](mvc.png)
+
+# Route
+![Alt Text](route.png)
+
+
 
 ## Deskripsi Paket
 Paket `symfony/dotenv` adalah bagian dari ekosistem Symfony dan digunakan untuk mengelola variabel lingkungan dalam proyek PHP. Versi yang digunakan dalam proyek ini adalah ^6.4.
